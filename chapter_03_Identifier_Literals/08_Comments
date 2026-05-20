@@ -1,0 +1,10 @@
+// This is a single line comment
+// This line  will not be executed
+
+/*
+* This is a multi-line comment
+* Author: Pramod Dutta
+* Date: 14-Feb-2026
+*/
+
+// var a = 10;
