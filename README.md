@@ -21,6 +21,17 @@ A comprehensive learning repository for mastering Playwright test automation wit
 - `vs_code_keyboard_shortcut_mac.md` - VS Code shortcuts for macOS
 - `vs_code_keyboard_shortcut_windows.md` - VS Code shortcuts for Windows
 
+### Chapter 04 - JavaScript Concepts
+- `09_var_let_const.js` - var, let, and const declarations
+- `10_functions.js` - JavaScript functions
+- `11_var_explained.js` - Understanding var in depth
+- `12_let_people_love.js` - Why developers prefer let
+- `13_const_explained.js` - Understanding const in depth
+- `14_var_functionscope.js` - var and function scope
+- `15_let_scope.js` - let and block scope
+- `16_Hoisting.js` - JavaScript hoisting concepts
+- `17_hoisting_fn.js` - Hoisting with functions
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -45,7 +56,8 @@ node chapter_01_Basics/01_Basics.js
 1. Start with Chapter 01 for JavaScript basics
 2. Move to Chapter 02 for core JS concepts
 3. Study Chapter 03 for identifier rules and best practices
-4. Reference the VS Code shortcut guides for productivity
+4. Explore Chapter 04 for variables, scope, and hoisting
+5. Reference the VS Code shortcut guides for productivity
 
 ## 📝 References
 - [Playwright Documentation](https://playwright.dev/)
