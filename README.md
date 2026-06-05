@@ -31,6 +31,20 @@ A comprehensive learning repository for mastering Playwright test automation wit
 - `15_let_scope.js` - let and block scope
 - `16_Hoisting.js` - JavaScript hoisting concepts
 - `17_hoisting_fn.js` - Hoisting with functions
+- `18_let_hoisting.js` - let and hoisting behavior
+- `19_let_hoisting_block.js` - let hoisting with block scope
+- `20_let_const.js` - let vs const comparison
+- `21_Jr_QA.js` - Junior QA interview questions
+
+### Chapter 05 - Literals
+- `22_Literal.js` - Introduction to literals
+- `23_null_undefined.js` - null and undefined types
+- `24_null.js` - Understanding null
+- `25_Literal_All.js` - All literal types overview
+- `26_Literal_Number_all.js` - Number literals
+- `27_String.js` - String literals
+- `28_Template_Literal.js` - Template literals
+- `29_Backtick_single_double.js` - Backtick, single, and double quotes
 
 ## 🚀 Getting Started
 
@@ -57,7 +71,8 @@ node chapter_01_Basics/01_Basics.js
 2. Move to Chapter 02 for core JS concepts
 3. Study Chapter 03 for identifier rules and best practices
 4. Explore Chapter 04 for variables, scope, and hoisting
-5. Reference the VS Code shortcut guides for productivity
+5. Dive into Chapter 05 for literals, strings, and template literals
+6. Reference the VS Code shortcut guides for productivity
 
 ## 📝 References
 - [Playwright Documentation](https://playwright.dev/)
