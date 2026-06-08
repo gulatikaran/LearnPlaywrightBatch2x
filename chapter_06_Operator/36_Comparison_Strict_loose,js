@@ -1,0 +1,37 @@
+// number == string (loose equality)
+console.log(42 == '42'); // Output: true (loose equality, checks value only)
+console.log(42 == "42"); // Output: true (loose equality, checks value only)
+
+// number === string (strict equality)
+console.log(42 === '42'); // Output: false (strict equality, checks value and type)
+console.log(42 === "42"); // Output: false (strict equality, checks value and type)
+
+// null == undefined (loose equality)
+console.log(null == undefined); // Output: true (loose equality, checks value only)
+
+// null === undefined (strict equality)
+console.log(null === undefined); // Output: false (strict equality, checks value and type)
+
+console.log(42 == "45"); // Output: false (strict equality, checks value and type). Here value is different and type is also different
+
+console.log(5 === 5); // Output: true (strict equality, checks value and type). Here value is same and type is also same
+console.log(5 === "5"); // Output: false (strict equality, checks value and type). Here value is same but type is different
+
+console.log(5 == 5); // Output: true (loose equality, checks value only). Here value is same and type is also same
+console.log(5 == "5"); // Output: true (loose equality, checks value only). Here value is same but type is different
+
+console.log(0 == ""); // Output: true (loose equality, checks value only). Here value is same but type is different
+console.log(0 === ""); // Output: false (strict equality, checks value and type). Here value is same but type is different
+
+console.log(true == 1); // Output: true (loose equality, checks value only). Here value is same but type is different
+console.log(true === 1); // Output: false (strict equality, checks value and type). Here value is same but type is different
+
+console.log(false == 0); // Output: true (loose equality, checks value only). Here value is same but type is different
+console.log(false === 0); // Output: false (strict equality, checks value and type). Here value is same but type is different
+
+console.log(true == 2); // Output: false (loose equality, checks value only). Here value is different and type is also different
+console.log(true === 2); // Output: false (strict equality, checks value and type). Here value is different and type is also different
+
+console.log(5 != "5"); // Output: false (loose inequality, checks value only). Here value is same but type is different
+console.log(5 !== "5"); // Output: true (strict inequality, checks value and type). Here value is same but type is different
+//console.log(5 !=== "5"); // This does not exist in JavaScript. The correct operator is !== for strict inequality. The === operator is for strict equality.
