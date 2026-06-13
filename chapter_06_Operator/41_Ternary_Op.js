@@ -50,3 +50,18 @@ let category =
             statusCode < 500 ? "Client Error" : "Server Error";
 console.log(`Status ${statusCode}: ${category}`);
 
+// Maximum number between two numbers, okay, by using the ternary operator
+let a = 10;
+let b = 5;
+let max_num = (a > b) ? a : b;
+console.log("Maximum number is:", max_num);
+
+// And maximum between the three numbers also by using turnery over 
+let x = 15;
+let y = 20;
+let z = 10;
+let maximum_num = (x > y && y > z) ? x :
+    (x < y && y > z) ? y : z;
+console.log("Maximum number is:", maximum_num);
+
+
