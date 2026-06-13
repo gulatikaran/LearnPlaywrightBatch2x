@@ -46,6 +46,26 @@ A comprehensive learning repository for mastering Playwright test automation wit
 - `28_Template_Literal.js` - Template literals
 - `29_Backtick_single_double.js` - Backtick, single, and double quotes
 
+### Chapter 06 - Operators
+- `30_Operator.js` - Introduction to operators
+- `31_Arithmetic_OP.js` - Arithmetic operators
+- `32_Modulus_OP.js` - Modulus operator
+- `33_Expo_OP.js` - Exponentiation operator
+- `34_IQ.js` - Interview questions on arithmetic
+- `35_Comparison_OP.js` - Comparison operators
+- `36_Comparison_Strict_loose,js` - Strict vs loose comparison
+- `37_IQ_Loose_Strict.js` - Interview questions on loose vs strict
+- `38_Confusing_Comparison.js` - Confusing comparison cases
+- `39_Logical_OP.js` - Logical operators
+- `40_String_Con_Op.js` - String concatenation operator
+- `41_Ternary_Op.js` - Ternary operator
+- `42_Type_Op.js` - Typeof operator
+- `43_Incre_Decre_Op.js` - Increment and decrement operators
+- `44_Null_Op.js` - Nullish coalescing operator
+- `45_Post_Increment.js` - Post-increment examples
+- `46_IQ_INCREMENT_D.js` - Interview questions on increment/decrement
+- `47_Advance_ID.js` - Advanced identifier examples
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -72,7 +92,8 @@ node chapter_01_Basics/01_Basics.js
 3. Study Chapter 03 for identifier rules and best practices
 4. Explore Chapter 04 for variables, scope, and hoisting
 5. Dive into Chapter 05 for literals, strings, and template literals
-6. Reference the VS Code shortcut guides for productivity
+6. Master Chapter 06 for operators (arithmetic, comparison, logical, ternary, type, increment/decrement, nullish)
+7. Reference the VS Code shortcut guides for productivity
 
 ## 📝 References
 - [Playwright Documentation](https://playwright.dev/)
