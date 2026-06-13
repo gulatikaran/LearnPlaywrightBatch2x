@@ -58,12 +58,12 @@ A comprehensive learning repository for mastering Playwright test automation wit
 - `38_Confusing_Comparison.js` - Confusing comparison cases
 - `39_Logical_OP.js` - Logical operators
 - `40_String_Con_Op.js` - String concatenation operator
-- `41_Ternary_Op.js` - Ternary operator
+- `41_Ternary_Op.js` - Ternary operator (max number tasks)
 - `42_Type_Op.js` - Typeof operator
 - `43_Incre_Decre_Op.js` - Increment and decrement operators
 - `44_Null_Op.js` - Nullish coalescing operator
 - `45_Post_Increment.js` - Post-increment examples
-- `46_IQ_INCREMENT_D.js` - Interview questions on increment/decrement
+- `46_IQ_INCREMENT_D.js` - Interview questions on increment/decrement (tasks with solutions)
 - `47_Advance_ID.js` - Advanced identifier examples
 
 ## 🚀 Getting Started
