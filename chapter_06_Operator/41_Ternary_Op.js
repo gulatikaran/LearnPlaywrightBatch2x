@@ -58,7 +58,7 @@ let max_num = (a > b) ? a : b;
 console.log("Maximum number is:", max_num); //10
 
 //Task No.2
-// And maximum between the three numbers also by using turnery over 
+// And maximum between the three numbers also by using ternary operator 
 let x = 15;
 let y = 20;
 let z = 10;
