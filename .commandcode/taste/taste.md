@@ -1,0 +1,3 @@
+- Expects the assistant to handle the full git workflow automatically — stage, commit, and push — after making file changes, rather than only making the edits. Confidence: 0.8
+- After git push operations, provide confirmation evidence including commit hash, branch name, and remote URL — not just a "done" message. Confidence: 0.9
+- When performing git commits, stage all relevant project files (including untracked files in tracked directories) so the full project appears on GitHub, not just the file that was edited. Confidence: 0.6

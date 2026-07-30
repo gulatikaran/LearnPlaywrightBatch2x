@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(git add README.md && git commit -F - <<'EOF' Update README with chapters 08-19 content Added documentation for chapters 08 through 19 covering switch statements, user input, loops, arrays, functions, strings, objects, 2D arrays, callbacks, promises, async/await, and Playwright basics. Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
+      "powershell"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
