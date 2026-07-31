@@ -172,7 +172,14 @@ A comprehensive learning repository for mastering Playwright test automation wit
 - `160_Promise_IQ.js` - Promise interview questions
 
 ### Chapter 18 - Async Await
-- `chapter_18_Async_Await/` - Async/await examples and exercises (content in progress)
+- `161_Async.js` - Introduction to async functions
+- `162_Async_P2.js` - Async/await examples
+- `163_PyODom.js` - PyODOM examples
+- `164_Async_Ex.js` - Async exercises
+- `165_AA_Parallel.js` - Parallel execution with async/await
+- `165_AA_Sequence.js` - Sequential execution with async/await
+- `166_IO.js` - I/O operations
+- `167_CLLogin.js` - Login automation example
 
 ### Chapter 19 - Playwright Basics
 - `package.json` - Playwright project setup
