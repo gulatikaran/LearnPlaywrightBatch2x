@@ -1,0 +1,8 @@
+// Basic Async and Await
+async function getTestResult() {
+    return "Pass";
+}
+
+getTestResult().then (function (res) {
+    console.log(res); // Pass
+});

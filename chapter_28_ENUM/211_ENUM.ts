@@ -1,0 +1,9 @@
+enum TestStatus { // Key-Value pairs
+    Pass = "PASS",
+    Fail = "FAIL",
+    Skip = "SKIP",
+    Pending = "PENDING",
+    Blocked = "BLOCKED"
+}
+
+console.log(TestStatus.Pass); // PASS

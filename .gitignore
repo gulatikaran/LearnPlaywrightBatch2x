@@ -1,0 +1,17 @@
+chapter_32_Playwright_Fundamentals/tests/example.spec.ts
+# Dependencies
+node_modules/
+
+# Playwright generated files
+test-results/
+playwright-report/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+ms-playwright/
+**/ms-playwright/
